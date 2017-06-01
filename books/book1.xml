@@ -1,0 +1,4 @@
+<book isbn="1234" title="That book">
+    <page>Contents1</page>
+    <page>Contents2</page>
+</book>
